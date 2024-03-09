@@ -1,0 +1,31 @@
+{
+  "name": "infinix-jbl-edition",
+  "version": "1.0.0",
+  "description": "Infinix Sound By JBL",
+  "main": "index.js",
+  "scripts": {
+    "test": "infinix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brrrskuy77/infinix-jbl-edition.git"
+  },
+  "keywords": [
+    "Infinix",
+    "Sound",
+    "By",
+    "JBL"
+  ],
+  "author": "Akbar Asif Subagiyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brrrskuy77/infinix-jbl-edition/issues"
+  },
+  "homepage": "https://github.com/Brrrskuy77/infinix-jbl-edition#readme",
+  "dependencies": {
+    "@types/node": "^20.11.25"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
